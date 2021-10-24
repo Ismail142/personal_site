@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+
+}
+
+h1 {
+    font-size: 5.125rem;
+    margin: 20px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    font-size: 1.60rem;
+    font-weight: normal;
+    padding-bottom: 20px;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+h3, a {
+    color: #11999E;
+}
+
+h1, h2 {
+    color: #66BFBF;
+}
+
+.code-gif {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.code-challenge {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container {
+    background-color: #D1E8E4;
+    padding: 100px 0 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted;
+    color: #a9f7f7;
+    width: 7%;
+    border-width: 0 0 10px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    top: 330px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+
+.btn {
+    padding: 20px 20px;
+    background-image: linear-gradient(#289494, #71ccccce);
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-image: linear-gradient(#71ccccce, #289494);
+}
+
+.bottom-container {
+    margin-top: 50px;
+    background-color: #66BFBF;
+    padding: 40px;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    margin-bottom: 0;
+}
+
+.footer-link {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: aqua;
+}
+
+.my-profile {
+    border-radius: 100px;
+}
+
+.middle-container {
+    margin-top: 50px;
+}
